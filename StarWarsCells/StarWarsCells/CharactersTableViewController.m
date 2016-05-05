@@ -69,7 +69,13 @@
     
     Character *character = self.charArray[indexPath.row];
     
+    
+    
+    cell.imageView.layer.masksToBounds = YES;
+    cell.imageView.layer.cornerRadius = 20.0;
+    cell.imageView.image = [UIImage imageNamed:character.image];
     cell.textLabel.text = character.name;
+
     
     
     

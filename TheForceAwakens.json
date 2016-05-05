@@ -1,65 +1,50 @@
 [
  {
    "name": "Kylo Ren",
-   "charDescription": "Asgard",
-   "image":{
-       "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/kyloRenAvatar.jpg",
-       "width": 200,
-       "height":200
-   }
+   "charDescription": "Kylo Ren is consumed by his need to emulate and eclipse the legacy of his Sith Lord grandfather, Anakin Skywalker/Darth Vader. He appears to be conflicted with his dark powers, succumbing to fits of rage and uncertainty about his decisions. This uncertainty culminates in a confrontation with his father, Han Solo.",
+   "image":"/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/kyloRenAvatar.jpg"
+ 
+ 
  },
  {
    "name": "Rey",
-   "charDescription": "",
-   "image": {
-       "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/reyAvatar.jpg",
-       "width":200,
-       "height":200
+   "charDescription": "Rey lives alone on the planet Jakku, scraping a living through scavenging parts from ships while awaiting the return of the family that she was separated from as a child",
+   "image":"/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/reyAvatar.jpg"
 
 
 
-   }
+ 
    },
  {
    "name": "Supreme Leader Snoke",
-   "charDescription": "",
-   "image":
-   {
-       "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/snokeAvatar.jpg",
-       "width":200,
-       "height":200
+   "charDescription": "Snoke witnessed the rise and eventual fall of the Galactic Empire. He had several apprentices before he became invested in the Skywalker bloodline, believing General Leia Organa and Han Solo's son, Ben, the grandson of Darth Vader and nephew of Jedi Master Luke Skywalker, had the right balance of the dark and light sides of the Force in him.",
+   "image":"/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/snokeAvatar.jpg"
+ 
 
 
 
-   }
+ 
 },
  {
    "name": "Han Solo",
-   "charDescription": "",
-   "image":
-   {
-       "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/hanSoloAvatar.jpg",
-       "width":200,
-       "height":200
+   "charDescription": "Han Solo was born on the planet Corellia during the waning years of the Galactic Republic. He was orphaned at a young age, and turned to a life of crime as a thief in order to survive the perils of the galaxy.[2] Solo, at some point, acquired a starship and became an exceptional pilot.",
+   "image":"/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/hanSoloAvatar.jpg"
+ 
 
 
 
-   }
+ 
 
 
  },
  {
    "name": "Finn",
-   "charDescription": "",
-   "image":
-   {
-       "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/finnAvatar.jpg",
-       "width":200,
-       "height":200
+   "charDescription": "Finn was a human male who served as a First Order stormtrooper, designation FN-2187 and known to his fellow soldiers as Eight-Seven. He was considered one of the group's best stormtroopers before he deserted to join the Resistance in their struggle against the First Order. Having left the First Order, he took on the name Finn at the suggestion of Resistance pilot Poe Dameron, based on his stormtrooper designation, having never been given an actual name. After leaving the First Order, he reluctantly became involved in the droid BB-8's quest to rejoin the Resistance, and escaped the desert planet Jakku with BB-8 and a female scavenger named Rey.",
+   "image":"/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/finnAvatar.jpg"
+ 
 
 
 
 
 
-}
  }]
