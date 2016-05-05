@@ -57,12 +57,12 @@
         <!--Detail View Controller-->
         <scene sceneID="pCE-SL-dbO">
             <objects>
-                <viewController id="hUP-6R-rkA" customClass="DetailViewController" sceneMemberID="viewController">
+                <viewController extendedLayoutIncludesOpaqueBars="YES" id="hUP-6R-rkA" customClass="DetailViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="g56-pT-vwk"/>
                         <viewControllerLayoutGuide type="bottom" id="iOv-BW-DFW"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleAspectFit" id="QcF-mj-BDk">
+                    <view key="view" opaque="NO" contentMode="scaleAspectFit" id="QcF-mj-BDk">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
