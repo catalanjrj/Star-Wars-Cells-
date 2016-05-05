@@ -1,7 +1,7 @@
 [
  {
    "name": "Kylo Ren",
-   "description": "Asgard",
+   "charDescription": "Asgard",
    "image":{
        "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/kyloRenAvatar.jpg",
        "width": 200,
@@ -10,7 +10,7 @@
  },
  {
    "name": "Rey",
-   "description": "",
+   "charDescription": "",
    "image": {
        "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/reyAvatar.jpg",
        "width":200,
@@ -22,7 +22,7 @@
    },
  {
    "name": "Supreme Leader Snoke",
-   "description": "",
+   "charDescription": "",
    "image":
    {
        "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/snokeAvatar.jpg",
@@ -35,7 +35,7 @@
 },
  {
    "name": "Han Solo",
-   "description": "",
+   "charDescription": "",
    "image":
    {
        "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/hanSoloAvatar.jpg",
@@ -50,7 +50,7 @@
  },
  {
    "name": "Finn",
-   "description": "",
+   "charDescription": "",
    "image":
    {
        "url": "/Users/catlanjrj/Desktop/Development/Star-Wars-Cells-/images/finnAvatar.jpg",
